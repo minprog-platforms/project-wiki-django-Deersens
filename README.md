@@ -1,6 +1,6 @@
 # Application Name
 
-TODO: Describe your application here.
+TODO: Describe your application here
 
 
 ## Getting Started
